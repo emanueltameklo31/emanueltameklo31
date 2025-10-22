@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Emanuel! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Azure Honey Net](https://github.com/emanueltameklo31/LABURL)
+- [AI Cybersecurity Assistant](https://github.com/emanueltameklo31/LABURL)
+
+<h2>🎓 Education</h2>
+
+- 🎓 B.S. Cybersecurity and Information Assurance – Western Governors University (Graduating Jan 2025)
+
+<h2>📜 Certifications</h2>
+
+- 🧰 CompTIA A+
+- 🔎 CompTIA Network+ (Expected Oct 2025)
+- 🔒 CompTIA Security+
+- 🌐 CompTIA CYSA+ (Expected Dec 2025)
+
+<h2>🤝 Let’s Connect</h2>
+I’m always looking to learn, grow, and connect with other professionals in the cybersecurity space.
+
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/emanuel-tameklo/)
 
 <!--
-**emanueltameklo31/emanueltameklo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
