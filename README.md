@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Honey Net](https://github.com/emanueltameklo31/azure-honey-net)
-- [AI Cybersecurity Assistant](https://github.com/emanueltameklo31/LABURL)
 
 <h2>🎓 Education</h2>
 
