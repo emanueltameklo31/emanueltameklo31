@@ -11,9 +11,9 @@
 <h2>📜 Certifications</h2>
 
 - 🧰 CompTIA A+
-- 🔎 CompTIA Network+ (Expected Oct 2025)
+- 🔎 CompTIA Network+
 - 🔒 CompTIA Security+
-- 🌐 CompTIA CYSA+ (Expected Dec 2025)
+- 🌐 CompTIA CYSA+ (Expected Feb 2026)
 
 <h2>🤝 Let’s Connect</h2>
 I’m always looking to learn, grow, and connect with other professionals in the cybersecurity space.
