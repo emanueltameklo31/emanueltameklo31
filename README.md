@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Honey Net](https://github.com/emanueltameklo31/azure-honey-net)
-- [Windows Server Domain Architecture Envirnoment](https://github.com/emanueltameklo31/Windows-Server-Domain-Architecture-Lab)
+- [Windows Server Domain Architecture Environment](https://github.com/emanueltameklo31/Windows-Server-Domain-Architecture-Lab)
 
 <h2>🎓 Education</h2>
 
