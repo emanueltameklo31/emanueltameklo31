@@ -14,6 +14,7 @@
 - 🧰 CompTIA A+
 - 🔎 CompTIA Network+
 - 🔒 CompTIA Security+
+- ✒️ ITIL Foundations
 - 🌐 CompTIA CYSA+ (Expected Feb 2026)
 
 <h2>🤝 Let’s Connect</h2>
