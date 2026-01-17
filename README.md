@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emanuel! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - [Azure Honey Net](https://github.com/emanueltameklo31/azure-honey-net)
 - [Windows Server Domain Architecture Environment](https://github.com/emanueltameklo31/Windows-Server-Domain-Architecture-Lab)
