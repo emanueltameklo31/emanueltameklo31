@@ -8,7 +8,7 @@
 
 <h2>🎓 Education</h2>
 
-- 🎓 B.S. Cybersecurity and Information Assurance – Western Governors University (Graduating Apr 2026)
+- 🎓 B.S. Cybersecurity and Information Assurance – Western Governors University (Graduating June 2026)
 
 <h2>📜 Certifications</h2>
 
@@ -16,7 +16,8 @@
 - 🔎 CompTIA Network+
 - 🔒 CompTIA Security+
 - ✒️ ITIL Foundations
-- 🌐 CompTIA CYSA+ (Expected Feb 2026)
+- 💻 LPI Essentials
+- 🌐 CompTIA CYSA+ (Expected April 2026)
 
 <h2>🤝 Let’s Connect</h2>
 I’m always looking to learn, grow, and connect with other professionals in the cybersecurity space.
