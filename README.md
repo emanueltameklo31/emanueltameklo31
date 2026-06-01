@@ -17,7 +17,9 @@
 - 🔒 CompTIA Security+
 - ✒️ ITIL Foundations
 - 💻 LPI Essentials
-- 🌐 CompTIA CYSA+ (Expected April 2026)
+- 💾 CompTIA Data+
+- 🌐 CompTIA CYSA+
+- 🧑‍💻 CompTIA Pentest+
 
 <h2>🤝 Let’s Connect</h2>
 I’m always looking to learn, grow, and connect with other professionals in the cybersecurity space.
