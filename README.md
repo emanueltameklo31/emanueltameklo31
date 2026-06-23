@@ -8,7 +8,7 @@
 
 <h2>🎓 Education</h2>
 
-- 🎓 B.S. Cybersecurity and Information Assurance – Western Governors University (Graduating June 2026)
+- 🎓 B.S. Cybersecurity and Information Assurance – Western Governors University
 
 <h2>📜 Certifications</h2>
 
