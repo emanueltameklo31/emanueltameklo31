@@ -5,6 +5,7 @@
 - [Azure Honey Net](https://github.com/emanueltameklo31/azure-honey-net)
 - [Windows Server Domain Architecture Environment](https://github.com/emanueltameklo31/Windows-Server-Domain-Architecture-Lab)
 - [Vulnerability Management Program](https://github.com/emanueltameklo31/Vuln-Management-Program)
+- [Security Hunt Investigation](https://github.com/emanueltameklo31/Threat_Hunt_Doc)
 
 <h2>🎓 Education</h2>
 
